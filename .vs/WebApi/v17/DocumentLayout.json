@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|c:\\users\\acer\\desktop\\cursoaspnet\\webapi\\webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\serviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|c:\\users\\acer\\desktop\\cursoaspnet\\webapi\\webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\funcionariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|c:\\users\\acer\\desktop\\cursoaspnet\\webapi\\webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|c:\\users\\acer\\desktop\\cursoaspnet\\webapi\\webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|c:\\users\\acer\\desktop\\cursoaspnet\\webapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F59BDC48-AFD7-42B6-AAD9-EE22F9FBDD7F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "WebApi\\Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "WebApi\\Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:29:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Models\\FuncionarioModel.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\FuncionarioModel.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Models\\FuncionarioModel.cs",
+              "RelativeToolTip": "WebApi\\Models\\FuncionarioModel.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:19:02.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Models\\ServiceResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\ServiceResponse.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Models\\ServiceResponse.cs",
+              "RelativeToolTip": "WebApi\\Models\\ServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:19:19.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "WebApi\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "WebApi\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:26:30.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\CursoAspNet\\WebApi\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-12T01:17:57.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
